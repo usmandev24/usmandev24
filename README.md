@@ -1,6 +1,6 @@
 # Hi there! 👋  
 
-I'm a **Front-End Web Developer** currently expanding my skills to become a **Full-Stack Web Developer**. I enjoy building interactive and user-friendly web applications.  
+I'm a Aspiring **full-stack JavaScript developer** — learning **Node.js (ESM), streams, and Tailwind CSS**; I enjoy building **low-level solutions** from scratch and will adopt packages once I'm comfortable.  
 
 ## 🚀 My Latest Projects
 - **[CalculatorX](https://github.com/usmandev24/calculatorX)** – A modern and responsive calculator app.  
